@@ -9,9 +9,9 @@ full stack and backend developer roles.
 
 ## About Me
 
-- 🎓 B.S. in Computer Science — Arizona State University
-- 💼 Actively seeking entry-level full stack and backend developer roles
-- 🌎 Based in Phoenix, AZ — open to remote, hybrid, on-site, and relocation
+- 🎓 B.S. in Computer Science - Arizona State University
+- 💼 Actively seeking entry - level full stack and backend developer roles
+- 🌎 Based in Phoenix, AZ - open to remote, hybrid, on-site, and relocation
 - 🛠️ I enjoy building reliable, clean, and maintainable software
 - 🚀 Quick learner, collaborative team player, and eager to contribute from day one
 
@@ -54,8 +54,8 @@ XML parsing and data processing project built in C# as part of my coursework at 
 
 - Entry-level full stack or backend developer roles
 - Teams that value clean code, good documentation, and collaboration
-- Open to **any industry** — fintech, healthtech, SaaS, startups, enterprise
-- Open to **any location** — remote, hybrid, on-site, or relocation anywhere in the US
+- Open to **any industry** - fintech, healthtech, SaaS, startups, enterprise
+- Open to **any location** - remote, hybrid, on-site, or relocation anywhere in the US
 
 ---
 
@@ -67,5 +67,5 @@ XML parsing and data processing project built in C# as part of my coursework at 
 
 ---
 
-*Open to work and excited to contribute — feel free to reach out via 
+*Open to work and excited to contribute feel free to reach out via 
 [LinkedIn](https://www.linkedin.com/in/tanmai-potla-6895523b9/)!*
